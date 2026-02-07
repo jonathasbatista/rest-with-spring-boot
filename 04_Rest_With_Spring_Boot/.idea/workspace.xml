@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d756ad36-bd4a-4e3e-b421-14f24f66e31a" name="Changes" comment="First Steps">
+      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/src/main/java/br/com/java/rest_with_spring_boot/Startup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/src/main/java/br/com/java/rest_with_spring_boot/controller/GreetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/src/main/java/br/com/java/rest_with_spring_boot/model/GreetingModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/src/test/java/br/com/java/rest_with_spring_boot/StartupTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/target/classes/br/com/java/rest_with_spring_boot/Startup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/target/classes/br/com/java/rest_with_spring_boot/controller/GreetingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/target/classes/br/com/java/rest_with_spring_boot/model/GreetingModel.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jonathasbatista&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jonathasbatista/rest-with-spring-boot.git&quot;,
+    &quot;accountId&quot;: &quot;dc2702f5-3158-4b28-84ea-4de58aa1ac49&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="39LoNob2EHQ9edISVME76vs8SDD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Startup.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Users/Jonathas/Documentos/Java/rest-with-spring-boot/04_Rest_With_Spring_Boot&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d756ad36-bd4a-4e3e-b421-14f24f66e31a" name="Changes" comment="" />
+      <created>1770484674662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770484674662</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First Steps">
+      <option name="closed" value="true" />
+      <created>1770485340621</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770485340621</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Steps">
+      <option name="closed" value="true" />
+      <created>1770485427764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770485427764</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First Steps">
+      <option name="closed" value="true" />
+      <created>1770485438961</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770485438962</updated>
+    </task>
+    <task id="LOCAL-00004" summary="First Steps">
+      <option name="closed" value="true" />
+      <created>1770485452647</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770485452647</updated>
+    </task>
+    <task id="LOCAL-00005" summary="First Steps">
+      <option name="closed" value="true" />
+      <created>1770485547368</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770485547368</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Steps" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Steps" />
+  </component>
+</project>
