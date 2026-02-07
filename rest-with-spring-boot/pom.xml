@@ -14,14 +14,12 @@
 	</parent>
 
 	<groupId>br.com.java</groupId>
-	<artifactId>04-Rest-With-Spring-Boot</artifactId>
+	<artifactId>rest-with-spring-boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>04-Rest-With-Spring-Boot</name>
+	<name>rest-with-spring-boot</name>
 
 	<properties>
 		<java.version>21</java.version>
-		<maven.compiler.source>22</maven.compiler.source>
-		<maven.compiler.target>22</maven.compiler.target>
 	</properties>
 
 	<dependencies>

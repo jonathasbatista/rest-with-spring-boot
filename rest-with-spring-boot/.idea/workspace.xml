@@ -5,24 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d756ad36-bd4a-4e3e-b421-14f24f66e31a" name="Changes" comment="First Steps">
-      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/src/main/java/br/com/java/rest_with_spring_boot/Startup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/src/main/java/br/com/java/rest_with_spring_boot/controller/GreetingController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/src/main/java/br/com/java/rest_with_spring_boot/model/GreetingModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/src/test/java/br/com/java/rest_with_spring_boot/StartupTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/target/classes/br/com/java/rest_with_spring_boot/Startup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/target/classes/br/com/java/rest_with_spring_boot/controller/GreetingController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rest-with-spring-boot/target/classes/br/com/java/rest_with_spring_boot/model/GreetingModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Rest_With_Spring_Boot/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Rest_With_Spring_Boot/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Rest_With_Spring_Boot/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Rest_With_Spring_Boot/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Rest_With_Spring_Boot/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Rest_With_Spring_Boot/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Rest_With_Spring_Boot/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Rest_With_Spring_Boot/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Rest_With_Spring_Boot/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Rest_With_Spring_Boot/src/main/java/br/com/java/rest_with_spring_boot/Startup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Rest_With_Spring_Boot/src/main/java/br/com/java/rest_with_spring_boot/controller/GreetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Rest_With_Spring_Boot/src/main/java/br/com/java/rest_with_spring_boot/model/GreetingModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Rest_With_Spring_Boot/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Rest_With_Spring_Boot/src/test/java/br/com/java/rest_with_spring_boot/StartupTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Rest_With_Spring_Boot/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Rest_With_Spring_Boot/target/classes/br/com/java/rest_with_spring_boot/Startup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Rest_With_Spring_Boot/target/classes/br/com/java/rest_with_spring_boot/controller/GreetingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Rest_With_Spring_Boot/target/classes/br/com/java/rest_with_spring_boot/model/GreetingModel.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,15 +59,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Startup.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Users/Jonathas/Documentos/Java/rest-with-spring-boot/04_Rest_With_Spring_Boot&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Startup.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Users/Jonathas/Documentos/Java/rest-with-spring-boot/rest-with-spring-boot"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -117,7 +117,23 @@
       <option name="project" value="LOCAL" />
       <updated>1770485547368</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="First Steps">
+      <option name="closed" value="true" />
+      <created>1770486467303</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770486467304</updated>
+    </task>
+    <task id="LOCAL-00007" summary="First Steps">
+      <option name="closed" value="true" />
+      <created>1770486484117</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770486484117</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
